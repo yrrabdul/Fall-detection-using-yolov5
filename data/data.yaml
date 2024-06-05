@@ -1,0 +1,5 @@
+train: data/fall_dataset/Train
+val: data/fall_dataset/Valid
+
+nc: 1
+names: ['Fall-Detected']
